@@ -91,7 +91,7 @@ export function ContactSection({ onAddPoint, onShowToast, onNavigateToMap }) {
                 </div>
                 <div>
                   <strong>Localização:</strong>
-                  <p>Campus Universitário • Distrito Federal - Brasil</p>
+                  <p>UDF - Campus Sede • Distrito Federal - Brasil</p>
                 </div>
               </div>
 

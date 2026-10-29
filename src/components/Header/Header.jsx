@@ -25,9 +25,9 @@ export function Header({ currentView, onNavigate }) {
           </div>
           <div className="brand-text">
             <div className="brand-title">
-              EcoPonto <span className="highlight-df">DF</span>
+              Descarte <span className="highlight-df">Vivo</span>
             </div>
-            <div className="brand-badge">Extensão Universitária</div>
+            <div className="brand-badge">ITINERÁRIO EXTENSIONISTA</div>
           </div>
         </button>
 

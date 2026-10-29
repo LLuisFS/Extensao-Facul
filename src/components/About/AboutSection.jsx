@@ -9,7 +9,7 @@ export function AboutSection({ onNavigateToMap, onNavigateToContact }) {
         
         {/* Hero */}
         <div className="info-hero">
-          <div className="hero-badge">Projeto de Extensão Universitária • Distrito Federal</div>
+          <div className="hero-badge">Itinerário Extensionista • Centro Universitário do Distrito Federal - (UDF)</div>
           <h1 className="hero-title">Conectando a Comunidade do DF ao Descarte Sustentável</h1>
           <p className="hero-subtitle">
             Uma iniciativa acadêmica e comunitária dedicada a geolocalizar, mapear e facilitar o acesso da população de Brasília e Regiões Administrativas aos pontos de coleta seletiva, descarte de eletroeletrônicos e ecopontos.
